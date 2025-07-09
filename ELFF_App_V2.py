@@ -1,4 +1,4 @@
-#Author, Eoin Corless
+#Developer: Eoin Corless
 #To convert to .exe, use pyinstaller --onefile ELFF_App_V2.py
 
 # I M P O R T S #
